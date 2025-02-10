@@ -5,7 +5,6 @@ My Little Raytracer is a simple yet effective ray tracing engine that renders 3D
 
 ## Features
 * Basic ray-sphere intersection
-* Output to an image file (e.g., PPM format)
 * In-app realtime scene viewer
 
 ## Requirements
